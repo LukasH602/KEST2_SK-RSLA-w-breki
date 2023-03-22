@@ -14,7 +14,15 @@
 
 Fyrsta sem á að gera er að slökkva á tölfuni og taka hana úr sambandi og síðan tekur maður eitt hliðarborð af tölfuhylkinu sem er oftast fast með skrúfum
 
-það er gott að finna stöðurafmagns band sem þú festir við hylki töflunnar. það verndar þig og íhlutina
+það er gott að finna stöðurafmagns band sem þú festir við hylki töflunnar. það verndar þig og íhlutina í tölfuni
+
+næst er að taka harðadiskin sem er festur mes skrífum í hylkið. gott er að fara varlega þegar harðidiskurin er afteingdur
+
+ef talfan hefur diskaspilara þá skal taka hann úr og geima hann í stað sem mun ekki safna stöðurafmagni
+
+svo skal taka úr aflgjafan sem er skrúfaður við hylkið
+
+
 
 
 ## myndin
