@@ -10,31 +10,33 @@
 | ATX ASRock H97M Pro4 | MOTHERBOARD | Móðurborðið er aðal hringrásarborðið í tölvu sem tengir alla aðra íhluti saman og gerir þeim kleift að vinna saman til að keyra tölvuna. |
 
 
-# að taka tölfu í sundur
+# Að taka tölfu í sundur
 
-Fyrsta sem á að gera er að slökkva á tölfuni og taka hana úr sambandi og síðan tekur maður eitt hliðarborð af tölfuhylkinu sem er oftast fast með skrúfum
+1. Gott er að taka mynd af tölvunni áður en hún er tekin í sundur
 
-það er gott að finna stöðurafmagns band sem þú festir við hylki töflunnar. það verndar þig og íhlutina í tölfuni
+2. Fyrsta sem á að gera er að slökkva á tölvuni og taka hana úr sambandi, síðan tekur maður eitt hliðarborð af tölvuhylkinu sem er oftast fast með skrúfum.
 
-næst er að taka harðadiskin sem er festur mes skrífum í hylkið. gott er að fara varlega þegar harðidiskurin er afteingdur
+3. Það er gott að finna stöðurafmagns band sem þú festir við hylki tölvunnar. Það verndar þig og íhluti tölvunar.
 
-ef talfan hefur diskaspilara þá skal taka hann úr og geima hann í stað sem mun ekki safna stöðurafmagni
+4. Næst er að taka harðadiskin(SSD) sem er festur með skrúfum í hylkið. Gott er að fara varlega þegar harðidiskurin er afteingdur.
 
-þegar CPU er tekið þarf fyrst að taka viftuna sem ar ofaná því síðan er hægt að taka CPU-ið en það er alltaf með thermap-paste á sér sem mun þurfa vera þveigið af með efni
+5. Ef talfan hefur diskaspilara þá skal taka hann úr og geima hann á stað sem mun ekki safna stöðurafmagni.
 
-svo skal taka úr aflgjafan sem er skrúfaður við hylkið
+6. Þegar örgjarfinn(CPU) er tekinn þarf fyrst að taka viftuna sem er ofaná, síðan er hægt að taka CPU'ið og þrífa thermal-paste'ið af með efni.
 
-nú að lokum skal taka víra sem eru teingdir. gott er að taka mynd áður en þú tekur allt í sundur
+7. Svo skal taka úr aflgjafan sem er skrúfaður við hylkið.
+
+8. Nú að lokum skal taka víra sem eru teingdir.
 
 
 
 # að setja tölfu aftur saman
 
-til að setja saman tölfuna er að mestuleiti hægt að fylgja listanum aftur nema í staðið setja hluti í í staðin
+1. Til að setja saman tölvuna er að mestuleiti hægt að fylgja listanum aftur nema gera allt öfugt.
 
-mesti munurin er er að setja CPU-ið þarsem þegar það hefur verið sett í mun þurfa bæta við thermal-paste og síðan setja viftuna á sinn stað
+2. Mesti munurin er að þegar CPU'ið er sett aftur í þarf að setja thermal-paste aftur á það áður en viftan ef sett á.
 
-mundu að hafa stöðurafmagns band á sér og að allt sé vel fast.
+3. Mundu að hafa stöðurafmagns band á sér og að allt sé vel fast.
 
 
 
