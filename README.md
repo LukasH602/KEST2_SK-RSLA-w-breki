@@ -7,7 +7,7 @@
 | LC POWER model: LC420H-12 | POWER SUPPLY | Power supply'ið í tölvu er íhlutur sem breytir straumafli úr AC í DC sem notanlegt af hinum íhlutum tölvunnar.|
 | INTEL E97379-001 CNSH5276Q4 F90T12NS1B7- 64A01B1 DC12V 0.28 NIDEC | FAN | Viftan í tölvu er íhluti sem hjálpar til við að kæla niður íhluti tölvunnar með því að færa loft í gegnum hulstrið. |
 | G.SKILL RIPJAWS X, F3-12800CL9D-8GXL, DDR3-1600, 1,50v, 4Gx2 Intel XMP | RAM | RAM er tegund af tölvuminni sem geymir tímabundið upplýsingar fyrir örgjörvann til að komast fljótt inn á. |
-| ATX ASRock H97M Pro4 | MOTHERBOARD |  |
+| ATX ASRock H97M Pro4 | MOTHERBOARD | Móðurborðið er aðal hringrásarborðið í tölvu sem tengir alla aðra íhluti saman og gerir þeim kleift að vinna saman til að keyra tölvuna. |
 
 
 # skísla
