@@ -1,4 +1,4 @@
-# KEST2_SK-RSLA-w-breki
+# KEST2_SKYRSLA
 
 | NAFN | ÍHLUTUR | LÝSING |
 | :--- | :----: | :---: |
@@ -10,7 +10,7 @@
 | ATX ASRock H97M Pro4 | MOTHERBOARD | Móðurborðið er aðal hringrásarborðið í tölvu sem tengir alla aðra íhluti saman og gerir þeim kleift að vinna saman til að keyra tölvuna. |
 
 
-# Að taka tölfu í sundur
+# Að taka tölvu í sundur
 
 1. Gott er að taka mynd af tölvunni áður en hún er tekin í sundur
 
@@ -30,7 +30,7 @@
 
 
 
-# að setja tölfu aftur saman
+# að setja tölvu aftur saman
 
 1. Til að setja saman tölvuna er að mestuleiti hægt að fylgja listanum aftur nema gera allt öfugt.
 
