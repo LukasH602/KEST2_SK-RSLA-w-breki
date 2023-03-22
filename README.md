@@ -24,11 +24,20 @@ ef talfan hefur diskaspilara þá skal taka hann úr og geima hann í stað sem 
 
 svo skal taka úr aflgjafan sem er skrúfaður við hylkið
 
-nú að lokum skal taka víra sem eru teingdir
+nú að lokum skal taka víra sem eru teingdir. gott er að taka mynd áður en þú tekur allt í sundur
 
 
 
 # að setja tölfu aftur saman
+
+til að setja saman tölfuna er að mestuleiti hægt að fylgja listanum aftur nema í staðið setja hluti í í staðin
+
+mesti munurin er er að setja CPU-ið þarsem þegar það hefur verið sett í mun þurfa bæta við thermal-paste og síðan setja viftuna á sinn stað
+
+mundu að hafa stöðurafmagns band á sér og að allt sé vel fast.
+
+
+
 
 
 ## myndin
