@@ -10,4 +10,7 @@
 | ATX ASRock H97M Pro4 | MOTHERBOARD |  |
 
 
+Fyrsta sem á að gera er að slökkva á tölfuni og taka hana úr sambandi og síðan tekur maður eitt hliðarborð af tölfuhylkinu sem er oftast fast með skrúfum
+
+
 ![20230322_160706](https://user-images.githubusercontent.com/88351016/226968460-40efcd49-ac7e-4aa0-a09e-f9a84f237542.jpg)
