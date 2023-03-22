@@ -10,7 +10,7 @@
 | ATX ASRock H97M Pro4 | MOTHERBOARD | Móðurborðið er aðal hringrásarborðið í tölvu sem tengir alla aðra íhluti saman og gerir þeim kleift að vinna saman til að keyra tölvuna. |
 
 
-# skísla
+# að taka tölfu í sundur
 
 Fyrsta sem á að gera er að slökkva á tölfuni og taka hana úr sambandi og síðan tekur maður eitt hliðarborð af tölfuhylkinu sem er oftast fast með skrúfum
 
@@ -20,9 +20,15 @@ næst er að taka harðadiskin sem er festur mes skrífum í hylkið. gott er a�
 
 ef talfan hefur diskaspilara þá skal taka hann úr og geima hann í stað sem mun ekki safna stöðurafmagni
 
+þegar CPU er tekið þarf fyrst að taka viftuna sem ar ofaná því síðan er hægt að taka CPU-ið en það er alltaf með thermap-paste á sér sem mun þurfa vera þveigið af með efni
+
 svo skal taka úr aflgjafan sem er skrúfaður við hylkið
 
+nú að lokum skal taka víra sem eru teingdir
 
+
+
+# að setja tölfu aftur saman
 
 
 ## myndin
