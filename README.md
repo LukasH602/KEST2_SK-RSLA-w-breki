@@ -14,7 +14,7 @@
 
 Fyrsta sem á að gera er að slökkva á tölfuni og taka hana úr sambandi og síðan tekur maður eitt hliðarborð af tölfuhylkinu sem er oftast fast með skrúfum
 
-
+það er gott að finna stöðurafmagns band sem þú festir við hylki töflunnar. það verndar þig og íhlutina
 
 
 ## myndin
