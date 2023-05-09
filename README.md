@@ -52,8 +52,7 @@
 
 ## Lokaverkefni Dagbók
 
-1. Til þess að setja upp Windows 10 fylgdi Lúkas þessu myndbandi 
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjuoOvUsOj-                     AhWJTcAKHSGlADEQwqsBegQICBAF&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnbGkPYtXtmA&usg=AOvVaw1VNQtUw1gHTN66f_vUmT_d
+1. Til þess að setja upp Windows 10 fylgdi Lúkas þessu myndbandi https://youtu.be/nbGkPYtXtmA
 
 2. Lúkas sótti svo forritin gitBash , Python , VS Code og PacketTracer
 
